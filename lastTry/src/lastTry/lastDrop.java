@@ -6,5 +6,6 @@ public class lastDrop {
 		System.out.print("accepted");
 		//ro7 zaker
 		System.out.println("babab");
+		system.out.println("meen ma3aya")  
 	}
 }
